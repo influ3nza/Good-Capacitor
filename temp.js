@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ASDF
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  enter flavor text here
 // @author       You
 // @match        *://*
@@ -14,5 +14,5 @@
     'use strict';
 
 
-    console.log("Hello World!");
+    console.log("Hello World! This is version 0.2");
 })();
